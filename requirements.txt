@@ -1,4 +1,10 @@
-agate==1.9.1
+
+torch==2.0.1
+torchvision==0.15.2
+torchaudio==2.0.2
+streamlit
+Pillow
+
 annotated-types==0.7.0
 asttokens==3.0.1
 attrs==25.4.0
